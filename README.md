@@ -2,7 +2,7 @@
 
 The Feedback App is a user-friendly web application built using React that allows users to provide feedback, comments, and reviews effortlessly. It simplifies the process of collecting and managing user feedback while providing an engaging and responsive user interface.
 
-![Alt text](image.png)
+![Alt text](image-2.png)
 
 ## Table of Contents
 
